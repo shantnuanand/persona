@@ -6,7 +6,7 @@ const About = () => {
       <div className="flex justify-between px-[100px] py-[130px] items-center">
         <img
           className="w-[400px] h-[400px] rounded-full border-[10px] border-gray-600 object-cover transition-transform transform hover:scale-110 duration-300"
-          src="src/assets/hero1.jpg"
+          src="hero1.jpg"
           alt="hero"
         />
         <div className="flex flex-col gap-5 w-[500px]">
